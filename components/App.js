@@ -1,6 +1,6 @@
 // task 2.8
 
-var GIPHY_API_URL = 'api.giphy.com';
+var GIPHY_API_URL = 'https://api.giphy.com';
 var GIPHY_PUB_KEY = 'dc6zaTOxFJmzC';
 
 App = React.createClass({
