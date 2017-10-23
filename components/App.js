@@ -1,7 +1,7 @@
 // task 2.8
 
 var GIPHY_API_URL = 'https://api.giphy.com';
-var GIPHY_PUB_KEY = 'dc6zaTOxFJmzC';
+var GIPHY_PUB_KEY = 'cmzph6ntM2ZtniwWEhmH2mTuuItsR8OJ'; //Giphy Developers dashboard / (dc6zaTOxFJmzC - public beta key)
 
 App = React.createClass({
     getInitialState() {
